@@ -5,8 +5,8 @@
 <manifest>
     
     <!-- Remotes -->
-    <remote name="xiaomi-mt6853-devs" fetch="https://github.com/xiaomi-mt6853-devs" clone-depth="1" revision="lineage-19.1" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" revision="lineage-19.1" />
+    <remote name="xiaomi-mt6853-devs" fetch="https://github.com/xiaomi-mt6853-devs" clone-depth="1" revision="lineage-20" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" revision="lineage-20" />
 
     <!-- Device Tree -->
     <project path="device/xiaomi/cannon" name="android_device_xiaomi_cannon" remote="xiaomi-mt6853-devs" />
